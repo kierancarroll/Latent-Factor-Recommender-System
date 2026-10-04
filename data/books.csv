@@ -1,0 +1,501 @@
+book_index,title,publication_year,book_id,link
+0,The Hunger Games (The Hunger Games; #1),2008,2767052,https://www.goodreads.com/book/show/2767052-the-hunger-games
+1,Twilight (Twilight; #1),2006,41865,https://www.goodreads.com/book/show/41865.Twilight
+2,The Fault in Our Stars,2012,11870085,https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars
+3,Divergent (Divergent; #1),2012,13335037,https://www.goodreads.com/book/show/13335037-divergent
+4,Catching Fire (The Hunger Games; #2),2009,6148028,https://www.goodreads.com/book/show/6148028-catching-fire
+5,Mockingjay (The Hunger Games; #3),2010,7260188,https://www.goodreads.com/book/show/7260188-mockingjay
+6,The Lightning Thief (Percy Jackson and the Olympians; #1),2006,28187,https://www.goodreads.com/book/show/28187.The_Lightning_Thief
+7,City of Bones (The Mortal Instruments; #1),2007,256683,https://www.goodreads.com/book/show/256683.City_of_Bones
+8,New Moon (Twilight; #2),2006,49041,https://www.goodreads.com/book/show/49041.New_Moon
+9,Eclipse (Twilight; #3),2007,428263,https://www.goodreads.com/book/show/428263.Eclipse
+10,Breaking Dawn (Twilight; #4),2008,1162543,https://www.goodreads.com/book/show/1162543.Breaking_Dawn
+11,The Perks of Being a Wallflower,1999,22628,https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower
+12,Insurgent (Divergent; #2),2012,11735983,https://www.goodreads.com/book/show/11735983-insurgent
+13,Looking for Alaska,2006,99561,https://www.goodreads.com/book/show/99561.Looking_for_Alaska
+14,Holes (Holes; #1),2000,38709,https://www.goodreads.com/book/show/38709.Holes
+15,The Maze Runner (Maze Runner; #1),2009,6186357,https://www.goodreads.com/book/show/6186357-the-maze-runner
+16,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children; #1),,9460487,https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children
+17,City of Glass (The Mortal Instruments; #3),,3777732,https://www.goodreads.com/book/show/3777732-city-of-glass
+18,City of Ashes (The Mortal Instruments; #2),2008,1582996,https://www.goodreads.com/book/show/1582996.City_of_Ashes
+19,Eleanor & Park,2013,15745753,https://www.goodreads.com/book/show/15745753-eleanor-park
+20,The Sisterhood of the Traveling Pants (Sisterhood; #1),,452306,https://www.goodreads.com/book/show/452306.The_Sisterhood_of_the_Traveling_Pants
+21,The Selection (The Selection; #1),2012,10507293,https://www.goodreads.com/book/show/10507293-the-selection
+22,Matched (Matched; #1),2010,7735333,https://www.goodreads.com/book/show/7735333-matched
+23,The Battle of the Labyrinth (Percy Jackson and the Olympians; #4),2008,2120932,https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth
+24,If I Stay (If I Stay; #1),,4374400,https://www.goodreads.com/book/show/4374400-if-i-stay
+25,Clockwork Angel (The Infernal Devices; #1),2010,7171637,https://www.goodreads.com/book/show/7171637-clockwork-angel
+26,Paper Towns,2009,6442769,https://www.goodreads.com/book/show/6442769-paper-towns
+27,Allegiant (Divergent; #3),2013,18710190,https://www.goodreads.com/book/show/18710190-allegiant
+28,Thirteen Reasons Why,,1217100,https://www.goodreads.com/book/show/1217100.Thirteen_Reasons_Why
+29,The Titan's Curse (Percy Jackson and the Olympians; #3),2007,561456,https://www.goodreads.com/book/show/561456.The_Titan_s_Curse
+30,Uglies (Uglies; #1),2005,24770,https://www.goodreads.com/book/show/24770.Uglies
+31,Hush; Hush (Hush; Hush; #1),2009,6339664,https://www.goodreads.com/book/show/6339664-hush-hush
+32,Matilda,,39988,https://www.goodreads.com/book/show/39988.Matilda
+33,Beautiful Creatures (Caster Chronicles; #1),2009,6304335,https://www.goodreads.com/book/show/6304335-beautiful-creatures
+34,Cinder (The Lunar Chronicles; #1),2012,11235712,https://www.goodreads.com/book/show/11235712-cinder
+35,Fallen (Fallen; #1),2009,6487308,https://www.goodreads.com/book/show/6487308-fallen
+36,The Last Olympian (Percy Jackson and the Olympians; #5),2009,4502507,https://www.goodreads.com/book/show/4502507-the-last-olympian
+37,Speak,2001,439288,https://www.goodreads.com/book/show/439288.Speak
+38,Marked (House of Night; #1),,30183,https://www.goodreads.com/book/show/30183.Marked
+39,Fangirl,2013,16068905,https://www.goodreads.com/book/show/16068905-fangirl
+40,City of Fallen Angels (The Mortal Instruments; #4),2011,6752378,https://www.goodreads.com/book/show/6752378-city-of-fallen-angels
+41,An Abundance of Katherines,,49750,https://www.goodreads.com/book/show/49750.An_Abundance_of_Katherines
+42,Clockwork Prince (The Infernal Devices; #2),2011,10025305,https://www.goodreads.com/book/show/10025305-clockwork-prince
+43,The Scorch Trials (Maze Runner; #2),2010,7631105,https://www.goodreads.com/book/show/7631105-the-scorch-trials
+44,The Son of Neptune (The Heroes of Olympus; #2),2011,9520360,https://www.goodreads.com/book/show/9520360-the-son-of-neptune
+45,City of Lost Souls (The Mortal Instruments; #5),2012,8755776,https://www.goodreads.com/book/show/8755776-city-of-lost-souls
+46,The Mark of Athena (The Heroes of Olympus; #3),2012,12127750,https://www.goodreads.com/book/show/12127750-the-mark-of-athena
+47,Throne of Glass (Throne of Glass; #1),2012,7896527,https://www.goodreads.com/book/show/7896527-throne-of-glass
+48,Twilight: The Complete Illustrated Movie Companion,2008,3609760,https://www.goodreads.com/book/show/3609760-twilight
+49,Inkheart (Inkworld; #1),2005,28194,https://www.goodreads.com/book/show/28194.Inkheart
+50,Graceling (Graceling Realm; #1),2008,3236307,https://www.goodreads.com/book/show/3236307-graceling
+51,We Were Liars,2014,16143347,https://www.goodreads.com/book/show/16143347-we-were-liars
+52,Shadow Kiss (Vampire Academy; #3),,2802316,https://www.goodreads.com/book/show/2802316-shadow-kiss
+53,The 5th Wave (The 5th Wave; #1),2013,16101128,https://www.goodreads.com/book/show/16101128-the-5th-wave
+54,Anna and the French Kiss (Anna and the French Kiss; #1),2010,6936382,https://www.goodreads.com/book/show/6936382-anna-and-the-french-kiss
+55,Delirium (Delirium; #1),2012,11614718,https://www.goodreads.com/book/show/11614718-delirium
+56,Frostbite (Vampire Academy; #2),2008,2282133,https://www.goodreads.com/book/show/2282133.Frostbite
+57,I Am Number Four (Lorien Legacies; #1),2010,7747374,https://www.goodreads.com/book/show/7747374-i-am-number-four
+58,Wonder (Wonder #1),2012,11387515,https://www.goodreads.com/book/show/11387515-wonder
+59,Eldest (The Inheritance Cycle; #2),2007,45978,https://www.goodreads.com/book/show/45978.Eldest
+60,Vampire Academy (Vampire Academy; #1),,345627,https://www.goodreads.com/book/show/345627.Vampire_Academy
+61,The Subtle Knife (His Dark Materials; #2),1997,119324,https://www.goodreads.com/book/show/119324.The_Subtle_Knife
+62,Will Grayson; Will Grayson,2010,6567017,https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson
+63,The Elite (The Selection; #2),2013,16248068,https://www.goodreads.com/book/show/16248068-the-elite
+64,Stargirl (Stargirl; #1),2002,22232,https://www.goodreads.com/book/show/22232.Stargirl
+65,The Red Pyramid (Kane Chronicles; #1),2010,7090447,https://www.goodreads.com/book/show/7090447-the-red-pyramid
+66,Blood Promise (Vampire Academy; #4),,5996153,https://www.goodreads.com/book/show/5996153-blood-promise
+67,Evermore (The Immortals; #1),,3975774,https://www.goodreads.com/book/show/3975774-evermore
+68,The Death Cure (Maze Runner; #3),2011,7864437,https://www.goodreads.com/book/show/7864437-the-death-cure
+69,Crescendo (Hush; Hush; #2),2010,7791997,https://www.goodreads.com/book/show/7791997-crescendo
+70,Hatchet (Brian's Saga; #1),2000,50,https://www.goodreads.com/book/show/50.Hatchet
+71,Before I Fall,2010,6482837,https://www.goodreads.com/book/show/6482837-before-i-fall
+72,Divergent (Divergent; #1),2011,8306857,https://www.goodreads.com/book/show/8306857-divergent
+73,Last Sacrifice (Vampire Academy; #6),2010,6527740,https://www.goodreads.com/book/show/6527740-last-sacrifice
+74,Red Queen (Red Queen; #1),2015,22328546,https://www.goodreads.com/book/show/22328546-red-queen
+75,Daughter of Smoke & Bone (Daughter of Smoke & Bone; #1),2011,8490112,https://www.goodreads.com/book/show/8490112-daughter-of-smoke-bone
+76,Just Listen,,51738,https://www.goodreads.com/book/show/51738.Just_Listen
+77,The City of Ember (Book of Ember; #1),2003,307791,https://www.goodreads.com/book/show/307791.The_City_of_Ember
+78,Perfect Chemistry (Perfect Chemistry; #1),2008,4268157,https://www.goodreads.com/book/show/4268157-perfect-chemistry
+79,Scarlet (The Lunar Chronicles; #2),2013,13206760,https://www.goodreads.com/book/show/13206760-scarlet
+80,The Princess Diaries (The Princess Diaries; #1),2001,38980,https://www.goodreads.com/book/show/38980.The_Princess_Diaries
+81,Where She Went (If I Stay; #2),2011,8492825,https://www.goodreads.com/book/show/8492825-where-she-went
+82,Silence (Hush; Hush; #3),2011,10637766,https://www.goodreads.com/book/show/10637766-silence
+83,Pretties (Uglies; #2),2005,24768,https://www.goodreads.com/book/show/24768.Pretties
+84,Hopeless (Hopeless; #1),2012,15717943,https://www.goodreads.com/book/show/15717943-hopeless
+85,Untamed (House of Night; #4),,2866718,https://www.goodreads.com/book/show/2866718-untamed
+86,Vampire Academy (Vampire Academy; #1),2013,18660669,https://www.goodreads.com/book/show/18660669-vampire-academy
+87,Chosen (House of Night; #3),,1326258,https://www.goodreads.com/book/show/1326258.Chosen
+88,Pandemonium (Delirium; #2),2012,9593911,https://www.goodreads.com/book/show/9593911-pandemonium
+89,City of Heavenly Fire (The Mortal Instruments; #6),2014,8755785,https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire
+90,The Truth About Forever,2004,51737,https://www.goodreads.com/book/show/51737.The_Truth_About_Forever
+91,Shatter Me (Shatter Me; #1),2011,10429045,https://www.goodreads.com/book/show/10429045-shatter-me
+92,Torment (Fallen; #2),2010,7740152,https://www.goodreads.com/book/show/7740152-torment
+93,The Angel Experiment (Maximum Ride; #1),2006,13152,https://www.goodreads.com/book/show/13152.The_Angel_Experiment
+94,Cress (The Lunar Chronicles; #3),2014,13206828,https://www.goodreads.com/book/show/13206828-cress
+95,Obsidian (Lux; #1),2012,12578077,https://www.goodreads.com/book/show/12578077-obsidian
+96,Clockwork Princess (The Infernal Devices; #3),2013,18335634,https://www.goodreads.com/book/show/18335634-clockwork-princess
+97,The House of Hades (The Heroes of Olympus; #4),2013,12127810,https://www.goodreads.com/book/show/12127810-the-house-of-hades
+98,The Absolutely True Diary of a Part-Time Indian,2007,693208,https://www.goodreads.com/book/show/693208.The_Absolutely_True_Diary_of_a_Part_Time_Indian
+99,It's Kind of a Funny Story,2007,248704,https://www.goodreads.com/book/show/248704.It_s_Kind_of_a_Funny_Story
+100,Pretty Little Liars (Pretty Little Liars; #1),,162085,https://www.goodreads.com/book/show/162085.Pretty_Little_Liars
+101,A Separate Peace,,5148,https://www.goodreads.com/book/show/5148.A_Separate_Peace
+102,Along for the Ride,2009,5664985,https://www.goodreads.com/book/show/5664985-along-for-the-ride
+103,Everything; Everything,2015,18692431,https://www.goodreads.com/book/show/18692431-everything-everything
+104,Prodigy (Legend; #2),2013,13414446,https://www.goodreads.com/book/show/13414446-prodigy
+105,This Lullaby,,22205,https://www.goodreads.com/book/show/22205.This_Lullaby
+106,Are You There God? It's Me; Margaret,2001,37732,https://www.goodreads.com/book/show/37732.Are_You_There_God_It_s_Me_Margaret
+107,I'd Tell You I Love You; But Then I'd Have to Kill You (Gallagher Girls; #1),2006,852470,https://www.goodreads.com/book/show/852470.I_d_Tell_You_I_Love_You_But_Then_I_d_Have_to_Kill_You
+108,Beastly (Beastly; #1; Kendra Chronicles; #1),2007,544891,https://www.goodreads.com/book/show/544891.Beastly
+109,I'll Give You the Sun,2014,20820994,https://www.goodreads.com/book/show/20820994-i-ll-give-you-the-sun
+110,The Short Second Life of Bree Tanner (Twilight; #3.5),2010,7937462,https://www.goodreads.com/book/show/7937462-the-short-second-life-of-bree-tanner
+111,The One (The Selection; #3),2014,18635016,https://www.goodreads.com/book/show/18635016-the-one
+112,Unwind (Unwind; #1),2007,764347,https://www.goodreads.com/book/show/764347.Unwind
+113,Gone (Gone; #1),2008,2536134,https://www.goodreads.com/book/show/2536134.Gone
+114,Paper Towns,2008,2914097,https://www.goodreads.com/book/show/2914097-paper-towns
+115,To All the Boys I've Loved Before (To All the Boys I've Loved Before; #1),2015,15749186,https://www.goodreads.com/book/show/15749186-to-all-the-boys-i-ve-loved-before
+116,Shadow and Bone (The Grisha; #1),2012,10194157,https://www.goodreads.com/book/show/10194157-shadow-and-bone
+117,All the Bright Places,2015,18460392,https://www.goodreads.com/book/show/18460392-all-the-bright-places
+118,Bloodlines (Bloodlines; #1),2011,8709527,https://www.goodreads.com/book/show/8709527-bloodlines
+119,Specials (Uglies; #3),2006,24765,https://www.goodreads.com/book/show/24765.Specials
+120,The DUFF: Designated Ugly Fat Friend,2010,6931356,https://www.goodreads.com/book/show/6931356-the-duff
+121,Hunted (House of Night; #5),,4134071,https://www.goodreads.com/book/show/4134071-hunted
+122,Sabriel (Abhorsen;  #1),1996,518848,https://www.goodreads.com/book/show/518848.Sabriel
+123,Midnight Sun (Twilight; #1.5),2008,4502877,https://www.goodreads.com/book/show/4502877-midnight-sun
+124,The Summoning (Darkest Powers; #1),2008,2800905,https://www.goodreads.com/book/show/2800905-the-summoning
+125,Heir of Fire (Throne of Glass; #3),2014,20613470,https://www.goodreads.com/book/show/20613470-heir-of-fire
+126,The Hunger Games Trilogy Boxset (The Hunger Games; #1-3),2010,7938275,https://www.goodreads.com/book/show/7938275-the-hunger-games-trilogy-boxset
+127,Walk Two Moons,1996,53496,https://www.goodreads.com/book/show/53496.Walk_Two_Moons
+128,The Raven Boys (The Raven Cycle; #1),2012,17675462,https://www.goodreads.com/book/show/17675462-the-raven-boys
+129,Tempted (House of Night; #6),2009,6262365,https://www.goodreads.com/book/show/6262365-tempted
+130,Every Day (Every Day; #1),2012,13262783,https://www.goodreads.com/book/show/13262783-every-day
+131,The Hunger Games: Official Illustrated Movie Companion,2012,11742691,https://www.goodreads.com/book/show/11742691-the-hunger-games
+132,Lock and Key,2008,1295102,https://www.goodreads.com/book/show/1295102.Lock_and_Key
+133,Passion (Fallen; #3),2011,9369720,https://www.goodreads.com/book/show/9369720-passion
+134,Burned (House of Night; #7),2010,6917952,https://www.goodreads.com/book/show/6917952-burned
+135,Champion (Legend; #3),2013,14290364,https://www.goodreads.com/book/show/14290364-champion
+136,Blue Bloods (Blue Bloods; #1),2007,872333,https://www.goodreads.com/book/show/872333.Blue_Bloods
+137,Wonder,2013,23302416,https://www.goodreads.com/book/show/23302416-wonder
+138,The Heir (The Selection; #4),2015,22918050,https://www.goodreads.com/book/show/22918050-the-heir
+139,The Blood of Olympus (The Heroes of Olympus; #5),2014,18705209,https://www.goodreads.com/book/show/18705209-the-blood-of-olympus
+140,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe; #1),2012,12000020,https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe
+141,Angus; Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson; #1),,402013,https://www.goodreads.com/book/show/402013.Angus_Thongs_and_Full_Frontal_Snogging
+142,Onyx (Lux; #2),2012,13047090,https://www.goodreads.com/book/show/13047090-onyx
+143,Unravel Me (Shatter Me; #2),2013,13104080,https://www.goodreads.com/book/show/13104080-unravel-me
+144,Hex Hall (Hex Hall; #1),2010,5287473,https://www.goodreads.com/book/show/5287473-hex-hall
+145,Reached (Matched; #3),2012,13125947,https://www.goodreads.com/book/show/13125947-reached
+146,Lola and the Boy Next Door (Anna and the French Kiss; #2),2011,9961796,https://www.goodreads.com/book/show/9961796-lola-and-the-boy-next-door
+147,Finale (Hush; Hush; #4),2012,12751687,https://www.goodreads.com/book/show/12751687-finale
+148,Point of Retreat (Slammed; #2),2012,13496084,https://www.goodreads.com/book/show/13496084-point-of-retreat
+149,The Summer I Turned Pretty (Summer; #1),2009,5821978,https://www.goodreads.com/book/show/5821978-the-summer-i-turned-pretty
+150,Winter (The Lunar Chronicles; #4),2015,13206900,https://www.goodreads.com/book/show/13206900-winter
+151,Queen of Shadows (Throne of Glass; #4),2015,18006496,https://www.goodreads.com/book/show/18006496-queen-of-shadows
+152,Crank (Crank; #1),,270730,https://www.goodreads.com/book/show/270730.Crank
+153,My Life Next Door,2012,12294652,https://www.goodreads.com/book/show/12294652-my-life-next-door
+154,Crossed (Matched; #2),2013,15812814,https://www.goodreads.com/book/show/15812814-crossed
+155,Awakened (House of Night; #8),2011,8652190,https://www.goodreads.com/book/show/8652190-awakened
+156,The Knife of Never Letting Go (Chaos Walking; #1),2008,2118745,https://www.goodreads.com/book/show/2118745.The_Knife_of_Never_Letting_Go
+157,Six of Crows (Six of Crows; #1),2015,23437156,https://www.goodreads.com/book/show/23437156-six-of-crows
+158,Unearthly (Unearthly; #1),2011,7488244,https://www.goodreads.com/book/show/7488244-unearthly
+159,Requiem (Delirium; #3),2013,9593913,https://www.goodreads.com/book/show/9593913-requiem
+160,Four: A Divergent Story Collection (Divergent; #0.1 - 0.4),2014,18126198,https://www.goodreads.com/book/show/18126198-four
+161,Fire (Graceling Realm; #2),,6137154,https://www.goodreads.com/book/show/6137154-fire
+162,The Kill Order (Maze Runner; #0.5),2012,13089710,https://www.goodreads.com/book/show/13089710-the-kill-order
+163,The Power of Six (Lorien Legacies; #2),2011,8659601,https://www.goodreads.com/book/show/8659601-the-power-of-six
+164,Poison Study (Study; #1),2007,60510,https://www.goodreads.com/book/show/60510.Poison_Study
+165,The Opal Deception  (Artemis Fowl; #4),2009,114954,https://www.goodreads.com/book/show/114954.The_Opal_Deception
+166,Beautiful Darkness (Caster Chronicles; #2),2010,7842288,https://www.goodreads.com/book/show/7842288-beautiful-darkness
+167,Among the Hidden (Shadow Children; #1),2006,227651,https://www.goodreads.com/book/show/227651.Among_the_Hidden
+168,The Awakening (Darkest Powers; #2),2009,5391115,https://www.goodreads.com/book/show/5391115-the-awakening
+169,Life As We Knew It (Last Survivors; #1),2006,213753,https://www.goodreads.com/book/show/213753.Life_As_We_Knew_It
+170,Pushing the Limits (Pushing the Limits; #1),2012,10194514,https://www.goodreads.com/book/show/10194514-pushing-the-limits
+171,Across the Universe (Across the Universe; #1),2011,8235178,https://www.goodreads.com/book/show/8235178-across-the-universe
+172,I Am the Messenger,,19057,https://www.goodreads.com/book/show/19057.I_Am_the_Messenger
+173,The Iron Daughter (The Iron Fey; #2),2010,7747064,https://www.goodreads.com/book/show/7747064-the-iron-daughter
+174,Opal (Lux; #3),2012,13362536,https://www.goodreads.com/book/show/13362536-opal
+175,The Reckoning (Darkest Powers; #3),2010,6468666,https://www.goodreads.com/book/show/6468666-the-reckoning
+176,The Goose Girl (The Books of Bayern; #1),,179064,https://www.goodreads.com/book/show/179064.The_Goose_Girl
+177,School's Out—Forever (Maximum Ride; #2),2006,13139,https://www.goodreads.com/book/show/13139.School_s_Out_Forever
+178,Between Shades of Gray,2011,7824322,https://www.goodreads.com/book/show/7824322-between-shades-of-gray
+179,The Statistical Probability of Love at First Sight,2012,10798416,https://www.goodreads.com/book/show/10798416-the-statistical-probability-of-love-at-first-sight
+180,The Twilight Saga (Twilight; #1-4),,3090465,https://www.goodreads.com/book/show/3090465-the-twilight-saga
+181,His Dark Materials (His Dark Materials #1-3),,18116,https://www.goodreads.com/book/show/18116.His_Dark_Materials
+182,Days of Blood & Starlight (Daughter of Smoke & Bone; #2),2012,12812550,https://www.goodreads.com/book/show/12812550-days-of-blood-starlight
+183,Wintergirls,,5152478,https://www.goodreads.com/book/show/5152478-wintergirls
+184,The Golden Lily (Bloodlines; #2),2012,8709523,https://www.goodreads.com/book/show/8709523-the-golden-lily
+185,The Last Olympian (Percy Jackson and the Olympians; #5),2009,4556058,https://www.goodreads.com/book/show/4556058-the-last-olympian
+186,Alanna: The First Adventure (Song of the Lioness; #1),2005,13831,https://www.goodreads.com/book/show/13831.Alanna
+187,Extras (Uglies; #4),,493456,https://www.goodreads.com/book/show/493456.Extras
+188,Ignite Me (Shatter Me; #3),2014,13188676,https://www.goodreads.com/book/show/13188676-ignite-me
+189,The Unbecoming of Mara Dyer (Mara Dyer; #1),2011,11408650,https://www.goodreads.com/book/show/11408650-the-unbecoming-of-mara-dyer
+190,Forever (The Wolves of Mercy Falls; #3),2011,9409458,https://www.goodreads.com/book/show/9409458-forever
+191,The Darkest Minds (The Darkest Minds; #1),2012,10576365,https://www.goodreads.com/book/show/10576365-the-darkest-minds
+192,Wither (The Chemical Garden; #1),,8525590,https://www.goodreads.com/book/show/8525590-wither
+193,Me and Earl and the Dying Girl,2012,12700353,https://www.goodreads.com/book/show/12700353-me-and-earl-and-the-dying-girl
+194,Glass Sword (Red Queen; #2),2016,23174274,https://www.goodreads.com/book/show/23174274-glass-sword
+195,Someone Like You,2004,816953,https://www.goodreads.com/book/show/816953.Someone_Like_You
+196,The Serpent's Shadow (Kane Chronicles; #3),2012,12893742,https://www.goodreads.com/book/show/12893742-the-serpent-s-shadow
+197,Rise of the Evening Star (Fablehaven; #2),2007,784911,https://www.goodreads.com/book/show/784911.Rise_of_the_Evening_Star
+198,Rebel Angels (Gemma Doyle; #2),2006,51428,https://www.goodreads.com/book/show/51428.Rebel_Angels
+199,The House on Mango Street,2009,139253,https://www.goodreads.com/book/show/139253.The_House_on_Mango_Street
+200,Red Queen (Red Queen; #1),2015,17878931,https://www.goodreads.com/book/show/17878931-red-queen
+201,The Sword of Summer (Magnus Chase and the Gods of Asgard; #1),2015,15724396,https://www.goodreads.com/book/show/15724396-the-sword-of-summer
+202,Siege and Storm (The Grisha; #2),2013,14061955,https://www.goodreads.com/book/show/14061955-siege-and-storm
+203,The Iron Queen (The Iron Fey; #3),2011,8685612,https://www.goodreads.com/book/show/8685612-the-iron-queen
+204,It's Not Summer Without You (Summer; #2),2010,6584188,https://www.goodreads.com/book/show/6584188-it-s-not-summer-without-you
+205,Free Four: Tobias Tells the Divergent Knife-Throwing Scene (Divergent; #1.5),2012,13615258,https://www.goodreads.com/book/show/13615258-free-four
+206,Rapture (Fallen; #4),2012,12716010,https://www.goodreads.com/book/show/12716010-rapture
+207,Messenger (The Giver; #3),2006,12930,https://www.goodreads.com/book/show/12930.Messenger
+208,Paranormalcy (Paranormalcy; #1),2010,7719245,https://www.goodreads.com/book/show/7719245-paranormalcy
+209,The Infinite Sea (The 5th Wave; #2),2014,16131484,https://www.goodreads.com/book/show/16131484-the-infinite-sea
+210,Flipped,,331920,https://www.goodreads.com/book/show/331920.Flipped
+211,The Dream Thieves (The Raven Cycle; #2),2013,17347389,https://www.goodreads.com/book/show/17347389-the-dream-thieves
+212,Delirium (Delirium; #1),2011,7686667,https://www.goodreads.com/book/show/7686667-delirium
+213,Mockingjay (The Hunger Games; #3),2010,8684868,https://www.goodreads.com/book/show/8684868-mockingjay
+214,Hoot,2006,13083,https://www.goodreads.com/book/show/13083.Hoot
+215,Masquerade (Blue Bloods; #2),2007,106085,https://www.goodreads.com/book/show/106085.Masquerade
+216,Heist Society (Heist Society; #1),2010,6574102,https://www.goodreads.com/book/show/6574102-heist-society
+217,Saving the World and Other Extreme Sports (Maximum Ride; #3),2007,33676,https://www.goodreads.com/book/show/33676.Saving_the_World_and_Other_Extreme_Sports
+218,Bitterblue (Graceling Realm; #3),2012,12680907,https://www.goodreads.com/book/show/12680907-bitterblue
+219,Thirteen Reasons Why,2016,29844228,https://www.goodreads.com/book/show/29844228-thirteen-reasons-why
+220,Demonglass (Hex Hall; #2),2011,8428064,https://www.goodreads.com/book/show/8428064-demonglass
+221,Under the Never Sky (Under the Never Sky; #1),2012,11594257,https://www.goodreads.com/book/show/11594257-under-the-never-sky
+222,Blue Moon (The Immortals; #2),2009,6134826,https://www.goodreads.com/book/show/6134826-blue-moon
+223,The Indigo Spell (Bloodlines; #3),2013,8709526,https://www.goodreads.com/book/show/8709526-the-indigo-spell
+224,Losing Hope (Hopeless; #2),2013,17340050,https://www.goodreads.com/book/show/17340050-losing-hope
+225,Anna Dressed in Blood (Anna; #1),2011,9378297,https://www.goodreads.com/book/show/9378297-anna-dressed-in-blood
+226,Angelfall (Penryn & the End of Days; #1),2013,11500217,https://www.goodreads.com/book/show/11500217-angelfall
+227,Isla and the Happily Ever After (Anna and the French Kiss; #3),2014,9627755,https://www.goodreads.com/book/show/9627755-isla-and-the-happily-ever-after
+228,The Rise of Nine (Lorien Legacies; #3),2012,12971616,https://www.goodreads.com/book/show/12971616-the-rise-of-nine
+229,The Scorpio Races,2011,10626594,https://www.goodreads.com/book/show/10626594-the-scorpio-races
+230,Cross My Heart and Hope to Spy (Gallagher Girls; #2),2007,568645,https://www.goodreads.com/book/show/568645.Cross_My_Heart_and_Hope_to_Spy
+231,Catching Fire (The Hunger Games; #2),2010,8423493,https://www.goodreads.com/book/show/8423493-catching-fire
+232,What Happened to Goodbye,2011,8492856,https://www.goodreads.com/book/show/8492856-what-happened-to-goodbye
+233,Beautiful Chaos (Caster Chronicles; #3),2011,10757833,https://www.goodreads.com/book/show/10757833-beautiful-chaos
+234,Leviathan (Leviathan; #1),,6050678,https://www.goodreads.com/book/show/6050678-leviathan
+235,The Hunger Games Tribute Guide,2012,13027304,https://www.goodreads.com/book/show/13027304-the-hunger-games-tribute-guide
+236,Breathe (Sea Breeze; #1),2011,11479285,https://www.goodreads.com/book/show/11479285-breathe
+237,Nightshade (Nightshade #1; Nightshade World #4),2010,7402393,https://www.goodreads.com/book/show/7402393-nightshade
+238,Wake (Wake; #1),2008,1661957,https://www.goodreads.com/book/show/1661957.Wake
+239,The Magician (The Secrets of the Immortal Nicholas Flamel; #2),2008,2402971,https://www.goodreads.com/book/show/2402971.The_Magician
+240,Reason to Breathe (Breathing; #1),2011,11561469,https://www.goodreads.com/book/show/11561469-reason-to-breathe
+241,We'll Always Have Summer (Summer; #3),2011,8680278,https://www.goodreads.com/book/show/8680278-we-ll-always-have-summer
+242,Clockwork Princess (The Infernal Devices; #3),2013,6131164,https://www.goodreads.com/book/show/6131164-clockwork-princess
+243,Rules of Attraction (Perfect Chemistry; #2),2010,7137775,https://www.goodreads.com/book/show/7137775-rules-of-attraction
+244,The Crown (The Selection; #5),2016,26074181,https://www.goodreads.com/book/show/26074181-the-crown
+245,Shadowland (The Immortals; #3),2009,6581511,https://www.goodreads.com/book/show/6581511-shadowland
+246,Stormbreaker,2004,136782,https://www.goodreads.com/book/show/136782.Stormbreaker
+247,The Second Summer of the Sisterhood (Sisterhood; #2),2004,5454,https://www.goodreads.com/book/show/5454.The_Second_Summer_of_the_Sisterhood
+248,Crossed (Matched; #2),2011,9794437,https://www.goodreads.com/book/show/9794437-crossed
+249,13 Little Blue Envelopes (Little Blue Envelope; #1),,17020,https://www.goodreads.com/book/show/17020.13_Little_Blue_Envelopes
+250,In the Hand of the Goddess (Song of the Lioness; #2),2005,13835,https://www.goodreads.com/book/show/13835.In_the_Hand_of_the_Goddess
+251,Out of My Mind,,6609765,https://www.goodreads.com/book/show/6609765-out-of-my-mind
+252,Revelations (Blue Bloods; #3),2008,2753843,https://www.goodreads.com/book/show/2753843-revelations
+253,P.S. I Still Love You (To All the Boys I've Loved Before; #2),2015,20698530,https://www.goodreads.com/book/show/20698530-p-s-i-still-love-you
+254,Amy & Roger's Epic Detour,2010,7664334,https://www.goodreads.com/book/show/7664334-amy-roger-s-epic-detour
+255,Lioness Rampant (Song of the Lioness; #4),,13837,https://www.goodreads.com/book/show/13837.Lioness_Rampant
+256,The Fault in Our Stars,2012,12970552,https://www.goodreads.com/book/show/12970552-the-fault-in-our-stars
+257,The Iron Knight (The Iron Fey; #4),2011,9659607,https://www.goodreads.com/book/show/9659607-the-iron-knight
+258,Ptolemy's Gate (Bartimaeus; #3),,59264,https://www.goodreads.com/book/show/59264.Ptolemy_s_Gate
+259,The Forest of Hands and Teeth (The Forest of Hands and Teeth; #1),2009,3432478,https://www.goodreads.com/book/show/3432478-the-forest-of-hands-and-teeth
+260,Dreamland,2004,4325,https://www.goodreads.com/book/show/4325.Dreamland
+261,Evernight (Evernight; #1),2009,2722413,https://www.goodreads.com/book/show/2722413-evernight
+262,Ruby Red (Precious Stone Trilogy; #1),2011,8835379,https://www.goodreads.com/book/show/8835379-ruby-red
+263,The Young Elites (The Young Elites; #1),2014,20821111,https://www.goodreads.com/book/show/20821111-the-young-elites
+264,The Sky Is Everywhere,,6604794,https://www.goodreads.com/book/show/6604794-the-sky-is-everywhere
+265,Allegiant (Divergent; #3),2013,10616322,https://www.goodreads.com/book/show/10616322-allegiant
+266,Wings (Wings; #1),2009,5056084,https://www.goodreads.com/book/show/5056084-wings
+267,The Vincent Boys (The Vincent Boys; #1),2011,12900174,https://www.goodreads.com/book/show/12900174-the-vincent-boys
+268,The House of the Scorpion (Matteo Alacran; #1),2004,13376,https://www.goodreads.com/book/show/13376.The_House_of_the_Scorpion
+269,Library of Souls (Miss Peregrine's Peculiar Children; #3),2015,24120519,https://www.goodreads.com/book/show/24120519-library-of-souls
+270,Since You've Been Gone,2014,18189606,https://www.goodreads.com/book/show/18189606-since-you-ve-been-gone
+271,Fairest (The Lunar Chronicles; #3.5),2015,22489107,https://www.goodreads.com/book/show/22489107-fairest
+272,The Battle for Skandia (Ranger's Apprentice; #4),,144350,https://www.goodreads.com/book/show/144350.The_Battle_for_Skandia
+273,The Wrath and the Dawn (The Wrath and the Dawn; #1),2015,18798983,https://www.goodreads.com/book/show/18798983-the-wrath-and-the-dawn
+274,Half-Blood (Covenant; #1),2011,9680718,https://www.goodreads.com/book/show/9680718-half-blood
+275,Hunger (Gone; #2),2009,5047880,https://www.goodreads.com/book/show/5047880-hunger
+276,The Thief Lord,2002,113304,https://www.goodreads.com/book/show/113304.The_Thief_Lord
+277,Simon vs. the Homo Sapiens Agenda,2015,19547856,https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda
+278,Nick & Norah's Infinite Playlist,,25373,https://www.goodreads.com/book/show/25373.Nick_Norah_s_Infinite_Playlist
+279,Ruin and Rising (The Grisha; #3),2014,14061957,https://www.goodreads.com/book/show/14061957-ruin-and-rising
+280,Impulse (Impulse; #1),,270805,https://www.goodreads.com/book/show/270805.Impulse
+281,Origins (The Vampire Diaries: Stefan's Diaries; #1),2010,7726143,https://www.goodreads.com/book/show/7726143-origins
+282,The Sorceress (The Secrets of the Immortal Nicholas Flamel; #3),2009,4588949,https://www.goodreads.com/book/show/4588949-the-sorceress
+283,Blue Lily; Lily Blue (The Raven Cycle; #3),2014,17378508,https://www.goodreads.com/book/show/17378508-blue-lily-lily-blue
+284,Flawless (Pretty Little Liars; #2),,162089,https://www.goodreads.com/book/show/162089.Flawless
+285,Hallowed (Unearthly; #2),2012,11563110,https://www.goodreads.com/book/show/11563110-hallowed
+286,This Girl (Slammed; #3),2013,15784909,https://www.goodreads.com/book/show/15784909-this-girl
+287,The Alchemyst (The Secrets of the Immortal Nicholas Flamel; #1),2010,17402605,https://www.goodreads.com/book/show/17402605-the-alchemyst
+288,Sweet Evil (Sweet; #1),2012,11808950,https://www.goodreads.com/book/show/11808950-sweet-evil
+289,The Luxe (Luxe; #1),2007,1254951,https://www.goodreads.com/book/show/1254951.The_Luxe
+290,The Van Alen Legacy (Blue Bloods; #4),2009,6267237,https://www.goodreads.com/book/show/6267237-the-van-alen-legacy
+291,The Winner's Curse (The Winner's Trilogy; #1),2014,16069030,https://www.goodreads.com/book/show/16069030-the-winner-s-curse
+292,Night World; No. 3 (Night World; #7-9),,3575676,https://www.goodreads.com/book/show/3575676-night-world-no-3
+293,The Girl of Fire and Thorns (Fire and Thorns; #1),2011,10429092,https://www.goodreads.com/book/show/10429092-the-girl-of-fire-and-thorns
+294,Max (Maximum Ride; #5),2009,3393124,https://www.goodreads.com/book/show/3393124-max
+295,Tithe (Modern Faerie Tales; #1),2004,46777,https://www.goodreads.com/book/show/46777.Tithe
+296,Let It Snow: Three Holiday Romances,,3213286,https://www.goodreads.com/book/show/3213286-let-it-snow
+297,Destined (House of Night; #9),2011,7933617,https://www.goodreads.com/book/show/7933617-destined
+298,The Assassin's Blade (Throne of Glass; #0.1-0.5),2014,18243700,https://www.goodreads.com/book/show/18243700-the-assassin-s-blade
+299,Girls in Pants: The Third Summer of the Sisterhood (Sisterhood; #3),2006,5452,https://www.goodreads.com/book/show/5452.Girls_in_Pants
+300,Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood; #4),2007,5453,https://www.goodreads.com/book/show/5453.Forever_in_Blue
+301,Halo (Halo; #1),2010,7778981,https://www.goodreads.com/book/show/7778981-halo
+302,The Final Warning (Maximum Ride; #4),2008,1829709,https://www.goodreads.com/book/show/1829709.The_Final_Warning
+303,The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments; #1-3),,6485421,https://www.goodreads.com/book/show/6485421-the-mortal-instruments-boxed-set
+304,All-American Girl (All-American Girl; #1),2003,19448,https://www.goodreads.com/book/show/19448.All_American_Girl
+305,Don't Judge a Girl by Her Cover (Gallagher Girls; #3),2009,5267365,https://www.goodreads.com/book/show/5267365-don-t-judge-a-girl-by-her-cover
+306,Through the Ever Night (Under the Never Sky; #2),2013,13253276,https://www.goodreads.com/book/show/13253276-through-the-ever-night
+307,Son (The Giver; #4),2012,13324841,https://www.goodreads.com/book/show/13324841-son
+308,Never Never (Never Never; #1),,24378015,https://www.goodreads.com/book/show/24378015-never-never
+309,Enclave (Razorland; #1),2011,7137327,https://www.goodreads.com/book/show/7137327-enclave
+310,Night World; No. 1 (Night World; #1-3),,3099787,https://www.goodreads.com/book/show/3099787-night-world-no-1
+311,Dash & Lily's Book of Dares (Dash & Lily; #1),2010,7741325,https://www.goodreads.com/book/show/7741325-dash-lily-s-book-of-dares
+312,The Sweet Far Thing (Gemma Doyle; #3),2007,127459,https://www.goodreads.com/book/show/127459.The_Sweet_Far_Thing
+313,Need (Need; #1),,4070493,https://www.goodreads.com/book/show/4070493-need
+314,The Hunger Games (The Hunger Games; #1),,18626858,https://www.goodreads.com/book/show/18626858-the-hunger-games
+315,Divergent (Divergent; #1),2011,9717320,https://www.goodreads.com/book/show/9717320-divergent
+316,The Sea of Tranquility,2012,16151178,https://www.goodreads.com/book/show/16151178-the-sea-of-tranquility
+317,The Woman Who Rides Like a Man (Song of the Lioness; #3),,13830,https://www.goodreads.com/book/show/13830.The_Woman_Who_Rides_Like_a_Man
+318,Barely Breathing (Breathing; #2),2012,13454149,https://www.goodreads.com/book/show/13454149-barely-breathing
+319,Allegiant (Divergent; #3),2013,17383918,https://www.goodreads.com/book/show/17383918-allegiant
+320,Night World; No. 2 (Night World; #4-6),,2985500,https://www.goodreads.com/book/show/2985500-night-world-no-2
+321,Stolen: A Letter to My Captor,2009,6408862,https://www.goodreads.com/book/show/6408862-stolen
+322,Wild Magic (Immortals; #1),2005,13836,https://www.goodreads.com/book/show/13836.Wild_Magic
+323,The Immortal Rules (Blood of Eden; #1),2012,10215349,https://www.goodreads.com/book/show/10215349-the-immortal-rules
+324,The Prince (The Selection; #0.5),2013,15820748,https://www.goodreads.com/book/show/15820748-the-prince
+325,Only the Good Spy Young (Gallagher Girls; #4),2010,6950688,https://www.goodreads.com/book/show/6950688-only-the-good-spy-young
+326,Glass (Crank; #2),2007,270804,https://www.goodreads.com/book/show/270804.Glass
+327,Firelight (Firelight; #1),2010,6448470,https://www.goodreads.com/book/show/6448470-firelight
+328,Keeping the Moon,,104378,https://www.goodreads.com/book/show/104378.Keeping_the_Moon
+329,Shadowland (The Mediator; #1),2005,187811,https://www.goodreads.com/book/show/187811.Shadowland
+330,The Fury / Dark Reunion (The Vampire Diaries; #3-4),2007,1895792,https://www.goodreads.com/book/show/1895792.The_Fury_Dark_Reunion
+331,Dark Flame (The Immortals; #4),2010,7198988,https://www.goodreads.com/book/show/7198988-dark-flame
+332,Perfect (Pretty Little Liars; #3),2007,1651302,https://www.goodreads.com/book/show/1651302.Perfect
+333,The Boy Who Sneaks in My Bedroom Window,2012,13628209,https://www.goodreads.com/book/show/13628209-the-boy-who-sneaks-in-my-bedroom-window
+334,Allegiant (Divergent; #3),2013,17406183,https://www.goodreads.com/book/show/17406183-allegiant
+335,The False Prince (The Ascendance Trilogy #1),2012,12432220,https://www.goodreads.com/book/show/12432220-the-false-prince
+336,Catching Jordan,,9888775,https://www.goodreads.com/book/show/9888775-catching-jordan
+337,Crooked Kingdom (Six of Crows; #2),2016,22299763,https://www.goodreads.com/book/show/22299763-crooked-kingdom
+338,Insurgent (Divergent #2),2012,13068756,https://www.goodreads.com/book/show/13068756-insurgent
+339,The Fiery Heart (Bloodlines; #4),2013,9833184,https://www.goodreads.com/book/show/9833184-the-fiery-heart
+340,Boy Meets Boy,2005,23228,https://www.goodreads.com/book/show/23228.Boy_Meets_Boy
+341,Gossip Girl (Gossip Girl; #1),2002,22188,https://www.goodreads.com/book/show/22188.Gossip_Girl
+342,Starcrossed (Starcrossed; #1),2011,9462795,https://www.goodreads.com/book/show/9462795-starcrossed
+343,The Sun Is Also a Star,2016,28763485,https://www.goodreads.com/book/show/28763485-the-sun-is-also-a-star
+344,The Hidden Oracle (The Trials of Apollo; #1),2016,26252859,https://www.goodreads.com/book/show/26252859-the-hidden-oracle
+345,Midnight Alley (The Morganville Vampires; #3),2007,544257,https://www.goodreads.com/book/show/544257.Midnight_Alley
+346,The Hate U Give,2017,32075671,https://www.goodreads.com/book/show/32075671-the-hate-u-give
+347,Stargazer (Evernight; #2),2009,3054684,https://www.goodreads.com/book/show/3054684-stargazer
+348,Crash (Crash; #1),2012,15757434,https://www.goodreads.com/book/show/15757434-crash
+349,The Alchemyst (The Secrets of the Immortal Nicholas Flamel; #1),2007,977841,https://www.goodreads.com/book/show/977841.The_Alchemyst
+350,Fang (Maximum Ride; #6),2010,6431790,https://www.goodreads.com/book/show/6431790-fang
+351,Anne of Windy Poplars (Anne of Green Gables; #4),1983,65840,https://www.goodreads.com/book/show/65840.Anne_of_Windy_Poplars
+352,The Gathering (Darkness Rising; #1),2011,7896345,https://www.goodreads.com/book/show/7896345-the-gathering
+353,Chain Reaction (Perfect Chemistry; #3),2011,8662836,https://www.goodreads.com/book/show/8662836-chain-reaction
+354,Lies (Gone; #3),2010,6686092,https://www.goodreads.com/book/show/6686092-lies
+355,Dreams of Gods & Monsters (Daughter of Smoke & Bone; #3),2014,13618440,https://www.goodreads.com/book/show/13618440-dreams-of-gods-monsters
+356,Terrier (Beka Cooper; #1),2006,13829,https://www.goodreads.com/book/show/13829.Terrier
+357,Burned (Burned; #1),2006,270807,https://www.goodreads.com/book/show/270807.Burned
+358,Beautiful Redemption (Caster Chronicles; #4),2012,7930335,https://www.goodreads.com/book/show/7930335-beautiful-redemption
+359,Cut,2002,662597,https://www.goodreads.com/book/show/662597.Cut
+360,Ink Exchange (Wicked Lovely; #2),2008,2321296,https://www.goodreads.com/book/show/2321296.Ink_Exchange
+361,Just One Day (Just One Day; #1),2013,17623975,https://www.goodreads.com/book/show/17623975-just-one-day
+362,Because of Low (Sea Breeze; #2),2012,13146214,https://www.goodreads.com/book/show/13146214-because-of-low
+363,Spell Bound (Hex Hall; #3),2012,11454587,https://www.goodreads.com/book/show/11454587-spell-bound
+364,The Kiss of Deception (The Remnant Chronicles; #1),2014,16429619,https://www.goodreads.com/book/show/16429619-the-kiss-of-deception
+365,Blood Red Road (Dust Lands; #1),2011,9917938,https://www.goodreads.com/book/show/9917938-blood-red-road
+366,Monster,2004,44184,https://www.goodreads.com/book/show/44184.Monster
+367,Identical,2008,2241059,https://www.goodreads.com/book/show/2241059.Identical
+368,Illuminae (The Illuminae Files; #1),2015,23395680,https://www.goodreads.com/book/show/23395680-illuminae
+369,Flat-Out Love (Flat-Out Love; #1),2011,11096647,https://www.goodreads.com/book/show/11096647-flat-out-love
+370,Destroy Me (Shatter Me; #1.5),2012,13623150,https://www.goodreads.com/book/show/13623150-destroy-me
+371,Never Fade (The Darkest Minds; #2),2013,16150830,https://www.goodreads.com/book/show/16150830-never-fade
+372,The Necromancer  (The Secrets of the Immortal Nicholas Flamel; #4),2010,6693332,https://www.goodreads.com/book/show/6693332-the-necromancer
+373,Angelfall (Penryn & the End of Days; #1),2012,15863832,https://www.goodreads.com/book/show/15863832-angelfall
+374,Cruel Beauty (Cruel Beauty Universe; #1),2014,15839984,https://www.goodreads.com/book/show/15839984-cruel-beauty
+375,Unbelievable (Pretty Little Liars; #4),,1537534,https://www.goodreads.com/book/show/1537534.Unbelievable
+376,The Evolution of Mara Dyer (Mara Dyer; #2),2012,13643567,https://www.goodreads.com/book/show/13643567-the-evolution-of-mara-dyer
+377,Tiger's Curse (The Tiger Saga; #1),2011,9284655,https://www.goodreads.com/book/show/9284655-tiger-s-curse
+378,Carry On,2015,23734628,https://www.goodreads.com/book/show/23734628-carry-on
+379,The Dead Girls' Dance (The Morganville Vampires; #2),2007,261122,https://www.goodreads.com/book/show/261122.The_Dead_Girls_Dance
+380,The Ask and the Answer (Chaos Walking; #2),2009,6043849,https://www.goodreads.com/book/show/6043849-the-ask-and-the-answer
+381,Dorothy Must Die (Dorothy Must Die; #1),2014,18053060,https://www.goodreads.com/book/show/18053060-dorothy-must-die
+382,Die for Me (Revenants; #1),2011,9462812,https://www.goodreads.com/book/show/9462812-die-for-me
+383,Trickster's Queen (Daughter of the Lioness; #2),2005,153780,https://www.goodreads.com/book/show/153780.Trickster_s_Queen
+384,An Ember in the Ashes (An Ember in the Ashes; #1),2015,20560137,https://www.goodreads.com/book/show/20560137-an-ember-in-the-ashes
+385,The Raven King (The Raven Cycle; #4),2016,17378527,https://www.goodreads.com/book/show/17378527-the-raven-king
+386,The Distance Between Us,2013,15283043,https://www.goodreads.com/book/show/15283043-the-distance-between-us
+387,These Broken Stars (Starbound; #1),2013,13138635,https://www.goodreads.com/book/show/13138635-these-broken-stars
+388,The One (The Selection; #3),2014,15844362,https://www.goodreads.com/book/show/15844362-the-one
+389,Pure (Covenant; #2),2012,9761771,https://www.goodreads.com/book/show/9761771-pure
+390,Switched (Trylle; #1),2010,8564935,https://www.goodreads.com/book/show/8564935-switched
+391,The Awakening (The Vampire Diaries; #1),1999,395922,https://www.goodreads.com/book/show/395922.The_Awakening
+392,The Goddess Test (Goddess Test; #1),2011,9681214,https://www.goodreads.com/book/show/9681214-the-goddess-test
+393,Scorpia,2006,542414,https://www.goodreads.com/book/show/542414.Scorpia
+394,Emperor Mage (Immortals; #3),2005,13833,https://www.goodreads.com/book/show/13833.Emperor_Mage
+395,Monsters of Men (Chaos Walking; #3),2010,7540092,https://www.goodreads.com/book/show/7540092-monsters-of-men
+396,That Summer,2006,104379,https://www.goodreads.com/book/show/104379.That_Summer
+397,The Face on the Milk Carton (Janie Johnson; #1),,19469,https://www.goodreads.com/book/show/19469.The_Face_on_the_Milk_Carton
+398,Incarceron (Incarceron; #1),2007,332775,https://www.goodreads.com/book/show/332775.Incarceron
+399,Feast of Fools (The Morganville Vampires; #4),2008,2295829,https://www.goodreads.com/book/show/2295829.Feast_of_Fools
+400,Vampire Kisses (Vampire Kisses; #1),2005,263147,https://www.goodreads.com/book/show/263147.Vampire_Kisses
+401,The Body Finder (The Body Finder; #1),2010,6261522,https://www.goodreads.com/book/show/6261522-the-body-finder
+402,Falling into You (Falling; #1),2013,17448960,https://www.goodreads.com/book/show/17448960-falling-into-you
+403,A Million Suns (Across the Universe; #2),2012,10345927,https://www.goodreads.com/book/show/10345927-a-million-suns
+404,Eon: Dragoneye Reborn (Eon; #1),2008,2986865,https://www.goodreads.com/book/show/2986865-eon
+405,Feed,2004,169756,https://www.goodreads.com/book/show/169756.Feed
+406,Partials (Partials Sequence; #1),2012,12476820,https://www.goodreads.com/book/show/12476820-partials
+407,Trickster's Choice (Daughter of the Lioness; #1),2004,24431,https://www.goodreads.com/book/show/24431.Trickster_s_Choice
+408,Fade (Wake; #2),2009,3657138,https://www.goodreads.com/book/show/3657138-fade
+409,Finding Cinderella (Hopeless; #2.5),2013,18593175,https://www.goodreads.com/book/show/18593175-finding-cinderella
+410,City of Bones (The Mortal Instruments; #1),2009,7541858,https://www.goodreads.com/book/show/7541858-city-of-bones
+411,The Fall of Five (Lorien Legacies; #4),2013,15861491,https://www.goodreads.com/book/show/15861491-the-fall-of-five
+412,The Transfer (Divergent; #0.1),2013,18080920,https://www.goodreads.com/book/show/18080920-the-transfer
+413,Forever . . .,2005,37743,https://www.goodreads.com/book/show/37743.Forever_
+414,The Twilight Collection (Twilight; #1-3),,690926,https://www.goodreads.com/book/show/690926.The_Twilight_Collection
+415,Two-Way Street,2007,1672727,https://www.goodreads.com/book/show/1672727.Two_Way_Street
+416,The Thief (The Queen's Thief; #1),2005,448873,https://www.goodreads.com/book/show/448873.The_Thief
+417,Princess in the Spotlight (The Princess Diaries; #2),2002,439275,https://www.goodreads.com/book/show/439275.Princess_in_the_Spotlight
+418,Carpe Corpus (The Morganville Vampires; #6),2009,5212771,https://www.goodreads.com/book/show/5212771-carpe-corpus
+419,An Ember in the Ashes (An Ember in the Ashes; #1),2016,27774758,https://www.goodreads.com/book/show/27774758-an-ember-in-the-ashes
+420,The Warlock (The Secrets of the Immortal Nicholas Flamel; #5),2011,8458018,https://www.goodreads.com/book/show/8458018-the-warlock
+421,Why We Broke Up,2011,10798418,https://www.goodreads.com/book/show/10798418-why-we-broke-up
+422,Wolfsbane (Nightshade #2; Nightshade World #5),2011,7263429,https://www.goodreads.com/book/show/7263429-wolfsbane
+423,The People of Sparks (Book of Ember; #2),2004,3467,https://www.goodreads.com/book/show/3467.The_People_of_Sparks
+424,Elsewhere,,359410,https://www.goodreads.com/book/show/359410.Elsewhere
+425,Out of Sight; Out of Time (Gallagher Girls; #5),2012,10560331,https://www.goodreads.com/book/show/10560331-out-of-sight-out-of-time
+426,The Vincent Brothers (The Vincent Boys; #2),2012,13369678,https://www.goodreads.com/book/show/13369678-the-vincent-brothers
+427,The Warrior Heir (The Heir Chronicles; #1),2007,213647,https://www.goodreads.com/book/show/213647.The_Warrior_Heir
+428,This Is What Happy Looks Like (This is What Happy Looks Like; #1),2013,15790873,https://www.goodreads.com/book/show/15790873-this-is-what-happy-looks-like
+429,Clash (Crash; #2),2012,15835685,https://www.goodreads.com/book/show/15835685-clash
+430,First Test (Protector of the Small; #1),2000,153784,https://www.goodreads.com/book/show/153784.First_Test
+431,The Dark Is Rising (The Dark is Rising; #2),,210329,https://www.goodreads.com/book/show/210329.The_Dark_Is_Rising
+432,Book of a Thousand Days,2007,248484,https://www.goodreads.com/book/show/248484.Book_of_a_Thousand_Days
+433,Panic (Panic; #1),2014,17565845,https://www.goodreads.com/book/show/17565845-panic
+434,Nightfall (The Vampire Diaries: The Return; #1),2009,3934321,https://www.goodreads.com/book/show/3934321-nightfall
+435,Angel (Maximum Ride; #7),2011,7201913,https://www.goodreads.com/book/show/7201913-angel
+436,Beauty Queens,2011,9464733,https://www.goodreads.com/book/show/9464733-beauty-queens
+437,Hate List,2009,6316171,https://www.goodreads.com/book/show/6316171-hate-list
+438,Finding Audrey,2015,23305614,https://www.goodreads.com/book/show/23305614-finding-audrey
+439,Out of Breath (Breathing; #3),2013,13638570,https://www.goodreads.com/book/show/13638570-out-of-breath
+440,Killer (Pretty Little Liars; #6),2009,3047849,https://www.goodreads.com/book/show/3047849-killer
+441,Point Blank,2001,224500,https://www.goodreads.com/book/show/224500.Point_Blank
+442,Deity (Covenant; #3),2012,9761778,https://www.goodreads.com/book/show/9761778-deity
+443,Love Letters to the Dead,2014,18140047,https://www.goodreads.com/book/show/18140047-love-letters-to-the-dead
+444,Princess in Love (The Princess Diaries; #3),2003,93728,https://www.goodreads.com/book/show/93728.Princess_in_Love
+445,On the Bright Side; I'm Now the Girlfriend of a Sex God (Confessions of Georgia Nicolson; #2),,402014,https://www.goodreads.com/book/show/402014.On_the_Bright_Side_I_m_Now_the_Girlfriend_of_a_Sex_God
+446,Plague (Gone; #4),2011,6686101,https://www.goodreads.com/book/show/6686101-plague
+447,The Merchant of Death (Pendragon; #1),2002,833710,https://www.goodreads.com/book/show/833710.The_Merchant_of_Death
+448,The Testing (The Testing; #1),2013,13326831,https://www.goodreads.com/book/show/13326831-the-testing
+449,A Living Nightmare (Cirque Du Freak; #1),2002,8962,https://www.goodreads.com/book/show/8962.A_Living_Nightmare
+450,Lord of Misrule (The Morganville Vampires; #5),2009,3558003,https://www.goodreads.com/book/show/3558003-lord-of-misrule
+451,I Was Here,2015,18879761,https://www.goodreads.com/book/show/18879761-i-was-here
+452,Hidden (House of Night; #10),2012,7933615,https://www.goodreads.com/book/show/7933615-hidden
+453,Hourglass (Evernight; #3),2010,6421588,https://www.goodreads.com/book/show/6421588-hourglass
+454,Of Poseidon (The Syrena Legacy; #1),2012,12425532,https://www.goodreads.com/book/show/12425532-of-poseidon
+455,Silver Shadows (Bloodlines; #5),2014,8709524,https://www.goodreads.com/book/show/8709524-silver-shadows
+456,Wicked (Pretty Little Liars; #5),2008,3047850,https://www.goodreads.com/book/show/3047850-wicked
+457,Paper Princess (The Royals; #1),2016,28678119,https://www.goodreads.com/book/show/28678119-paper-princess
+458,The Bane Chronicles,2014,16303287,https://www.goodreads.com/book/show/16303287-the-bane-chronicles
+459,The Unbecoming of Mara Dyer (Mara Dyer; #1),2011,8591107,https://www.goodreads.com/book/show/8591107-the-unbecoming-of-mara-dyer
+460,The Coldest Girl in Coldtown,2013,12813630,https://www.goodreads.com/book/show/12813630-the-coldest-girl-in-coldtown
+461,Girl Online (Girl Online; #1),2014,22510983,https://www.goodreads.com/book/show/22510983-girl-online
+462,Everlasting (The Immortals; #6),2011,9395215,https://www.goodreads.com/book/show/9395215-everlasting
+463,Skeleton Key,2006,103983,https://www.goodreads.com/book/show/103983.Skeleton_Key
+464,Fallen Crest High (Fallen Crest High; #1),2012,16134551,https://www.goodreads.com/book/show/16134551-fallen-crest-high
+465,Birthmarked (Birthmarked; #1),,6909544,https://www.goodreads.com/book/show/6909544-birthmarked
+466,Splintered (Splintered; #1),2013,12558285,https://www.goodreads.com/book/show/12558285-splintered
+467,Wolf-Speaker (Immortals; #2),2005,24094,https://www.goodreads.com/book/show/24094.Wolf_Speaker
+468,Lady Knight (Protector of the Small; #4),2007,153800,https://www.goodreads.com/book/show/153800.Lady_Knight
+469,Forbidden,2010,7600924,https://www.goodreads.com/book/show/7600924-forbidden
+470,Fever (The Chemical Garden; #2),2012,11112619,https://www.goodreads.com/book/show/11112619-fever
+471,Eagle Strike,2006,175004,https://www.goodreads.com/book/show/175004.Eagle_Strike
+472,Caraval (Caraval; #1),2017,27883214,https://www.goodreads.com/book/show/27883214-caraval
+473,Avalon High,,187812,https://www.goodreads.com/book/show/187812.Avalon_High
+474,Heartless,2016,18584855,https://www.goodreads.com/book/show/18584855-heartless
+475,Leaving Paradise (Leaving Paradise; #1),2007,544424,https://www.goodreads.com/book/show/544424.Leaving_Paradise
+476,Squire (Protector of the Small; #3),2007,153795,https://www.goodreads.com/book/show/153795.Squire
+477,Fragile Eternity (Wicked Lovely; #3),,5152561,https://www.goodreads.com/book/show/5152561-fragile-eternity
+478,Little Brother,,954674,https://www.goodreads.com/book/show/954674.Little_Brother
+479,The Adoration of Jenna Fox (Jenna Fox Chronicles; #1),2008,1902241,https://www.goodreads.com/book/show/1902241.The_Adoration_of_Jenna_Fox
+480,Sold,2006,201114,https://www.goodreads.com/book/show/201114.Sold
+481,Boundless (Unearthly; #3),2013,13049981,https://www.goodreads.com/book/show/13049981-boundless
+482,Tomorrow; When the War Began (Tomorrow; #1),2006,71865,https://www.goodreads.com/book/show/71865.Tomorrow_When_the_War_Began
+483,Captivate (Need; #2),2010,6600137,https://www.goodreads.com/book/show/6600137-captivate
+484,Snow Like Ashes (Snow Like Ashes; #1),2014,17399160,https://www.goodreads.com/book/show/17399160-snow-like-ashes
+485,The Retribution of Mara Dyer (Mara Dyer; #3),2014,15768409,https://www.goodreads.com/book/show/15768409-the-retribution-of-mara-dyer
+486,King's Cage (Red Queen; #3),2017,30226723,https://www.goodreads.com/book/show/30226723-king-s-cage
+487,Wanted (Pretty Little Liars; #8),2010,3047851,https://www.goodreads.com/book/show/3047851-wanted
+488,Everneath (Everneath; #1),2012,9413044,https://www.goodreads.com/book/show/9413044-everneath
+489,Saint Anything,2015,23009402,https://www.goodreads.com/book/show/23009402-saint-anything
+490,My Soul to Take (Soul Screamers; #1),2009,6315602,https://www.goodreads.com/book/show/6315602-my-soul-to-take
+491,The Disreputable History of Frankie Landau-Banks,2008,1629601,https://www.goodreads.com/book/show/1629601.The_Disreputable_History_of_Frankie_Landau_Banks
+492,UnEnchanted (An Unfortunate Fairy Tale; #1),2011,13402447,https://www.goodreads.com/book/show/13402447-unenchanted
+493,The Beginning of Everything,2013,13522285,https://www.goodreads.com/book/show/13522285-the-beginning-of-everything
+494,Twenty Boy Summer,2009,5231173,https://www.goodreads.com/book/show/5231173-twenty-boy-summer
+495,Freak the Mighty (Freak The Mighty; #1),2001,8953,https://www.goodreads.com/book/show/8953.Freak_the_Mighty
+496,Uncommon Criminals (Heist Society; #2),2011,10327303,https://www.goodreads.com/book/show/10327303-uncommon-criminals
+497,Going Too Far,2009,4570679,https://www.goodreads.com/book/show/4570679-going-too-far
+498,Searching for Dragons (Enchanted Forest Chronicles; #2),2002,169875,https://www.goodreads.com/book/show/169875.Searching_for_Dragons
+499,Counting by 7s,2013,15937108,https://www.goodreads.com/book/show/15937108-counting-by-7s
